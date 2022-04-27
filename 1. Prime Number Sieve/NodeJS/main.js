@@ -1,4 +1,4 @@
-const toReach = 100000
+const toReach = 100000 // 100,000
 
 for (var i = 2; i < toReach; i++) {
     var isPrime = true

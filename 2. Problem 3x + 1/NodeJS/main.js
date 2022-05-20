@@ -1,6 +1,6 @@
 var targetNumber = 5000;
 for (var i = 10; i < targetNumber + 1; i++) {
-  console.log("────────── " + i + " ──────────");
+  console.log("========== " + i + " ==========");
   var j = i;
   while (j > 2) {
     if (j % 2 == 0) {

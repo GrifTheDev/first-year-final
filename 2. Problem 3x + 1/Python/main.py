@@ -9,5 +9,5 @@ for i in range(10, targetNumber + 1):
         else:
             j = 3 * j + 1
             print(j)
+    print(j // 2)
 
-print(j / 2)

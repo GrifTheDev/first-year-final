@@ -1,6 +1,3 @@
-from pickle import TRUE
-
-
 toReach = 100000  # 100,000
 for i in range(2, toReach):
     isPrime = True
